@@ -1,0 +1,6 @@
+data & J48 & IDF & IDF2
+breast cancer wisconsin & 96.5 & 96.426 & 96.426
+diabetes & 75.018 & 70.808 & 70.7
+ecoli & 79.372 & 78.554 & 78.608
+segment & 93.13 & 93.0975 & 93.085
+waveform-5000 & 83.244 & 83.244 & 83.244

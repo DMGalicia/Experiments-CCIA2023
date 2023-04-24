@@ -1,0 +1,36 @@
+@relation R_data_frame
+
+@attribute IR {A,N,P}
+@attribute MR {A,N,P}
+@attribute FF {A,N,P}
+@attribute CR {A,N,P}
+@attribute CO {A,N,P}
+@attribute OP {A,N,P}
+@attribute ObservedClass {B,NB}
+
+@data
+N,N,N,N,N,A,B
+N,N,N,N,N,A,B
+N,N,N,N,N,N,B
+A,A,N,N,N,P,B
+N,N,A,N,N,N,B
+N,N,N,N,N,P,B
+P,N,N,N,N,N,B
+P,P,A,A,P,N,NB
+P,P,A,P,P,P,NB
+P,A,A,P,P,P,NB
+P,N,A,A,A,P,NB
+P,A,A,P,P,P,NB
+A,A,P,P,P,A,NB
+A,A,A,P,P,P,NB
+A,A,P,P,P,A,NB
+A,A,N,P,P,A,NB
+N,N,A,A,A,N,NB
+P,P,A,P,P,N,NB
+P,A,A,P,P,P,NB
+N,P,A,A,P,N,NB
+P,P,A,P,P,N,NB
+P,N,P,P,P,P,B
+N,P,A,A,P,N,NB
+A,N,A,A,P,A,NB
+N,N,A,P,A,N,B

@@ -1,0 +1,10 @@
+filter,data,auc
+J48,balance-scale,68.46
+J48,solar-flare,71.94
+J48,nursery,99.47
+IDF,balance-scale,68.46
+IDF,solar-flare,71.47
+IDF,nursery,99.47
+IDF2,balance-scale,68.46
+IDF2,solar-flare,71.45
+IDF2,nursery,99.47

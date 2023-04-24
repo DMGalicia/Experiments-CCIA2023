@@ -1,0 +1,61 @@
+@relation R_data_frame
+
+@attribute IR {A,N,P}
+@attribute MR {A,N,P}
+@attribute FF {A,N,P}
+@attribute CR {A,N,P}
+@attribute CO {A,N,P}
+@attribute OP {A,N,P}
+@attribute ObservedClass {B,NB}
+
+@data
+A,N,N,N,N,N,B
+A,N,N,N,N,N,B
+A,A,N,N,N,N,B
+N,N,N,N,N,N,B
+A,A,N,N,N,N,B
+A,A,N,N,N,N,B
+N,N,N,N,N,P,B
+N,N,N,N,N,N,B
+A,N,N,N,N,A,B
+P,N,N,N,N,N,B
+N,N,N,N,N,P,B
+P,P,N,N,N,N,B
+N,N,N,A,N,A,B
+N,N,N,N,N,N,B
+N,N,N,N,N,P,B
+N,N,N,N,N,A,B
+N,N,N,A,N,A,B
+P,N,N,N,N,N,B
+N,N,N,N,N,N,B
+A,A,N,N,N,N,B
+N,N,N,N,N,A,B
+A,A,N,N,N,N,B
+N,N,N,N,N,N,B
+N,N,N,N,N,A,B
+P,A,A,P,P,P,NB
+N,N,P,A,P,N,NB
+N,N,A,A,A,N,B
+N,N,P,P,A,N,NB
+N,N,A,A,A,N,NB
+P,P,A,P,P,N,B
+P,A,A,P,P,N,NB
+A,P,A,P,A,P,NB
+N,N,P,P,P,P,NB
+A,P,A,A,A,P,NB
+A,A,P,P,P,A,NB
+A,A,P,A,P,A,NB
+A,A,A,A,A,A,NB
+A,A,P,A,P,A,NB
+N,N,A,A,A,N,NB
+N,N,A,A,A,N,NB
+A,A,P,A,P,A,NB
+N,N,A,A,P,N,NB
+N,N,A,P,P,N,NB
+N,N,A,A,A,N,NB
+P,A,A,A,P,A,NB
+P,P,A,P,P,N,NB
+P,A,A,P,P,P,NB
+N,N,A,P,P,N,NB
+P,P,A,P,P,N,NB
+N,P,P,P,P,N,NB

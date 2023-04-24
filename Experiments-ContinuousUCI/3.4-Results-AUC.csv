@@ -1,0 +1,76 @@
+filter,data,discretizer,auc
+J48,breast cancer wisconsin,CAIM,97.63
+J48,breast cancer wisconsin,AMEVA,96.45
+J48,breast cancer wisconsin,CACC,96.45
+J48,breast cancer wisconsin,CHI2,95.76
+J48,breast cancer wisconsin,MDLP,96.21
+J48,diabetes,CAIM,74.36
+J48,diabetes,AMEVA,78.44
+J48,diabetes,CACC,78.17
+J48,diabetes,CHI2,63.86
+J48,diabetes,MDLP,80.26
+J48,ecoli,CAIM,66.84
+J48,ecoli,AMEVA,74.80
+J48,ecoli,CACC,74.84
+J48,ecoli,CHI2,85.75
+J48,ecoli,MDLP,94.63
+J48,segment,CAIM,98.45
+J48,segment,AMEVA,98.82
+J48,segment,CACC,98.79
+J48,segment,CHI2,76.46
+J48,segment,MDLP,NaN
+J48,waveform-5000,CAIM,85.21
+J48,waveform-5000,AMEVA,86.95
+J48,waveform-5000,CACC,86.40
+J48,waveform-5000,CHI2,69.93
+J48,waveform-5000,MDLP,87.73
+IDF,breast cancer wisconsin,CAIM,96.06
+IDF,breast cancer wisconsin,AMEVA,97.05
+IDF,breast cancer wisconsin,CACC,97.05
+IDF,breast cancer wisconsin,CHI2,95.76
+IDF,breast cancer wisconsin,MDLP,96.21
+IDF,diabetes,CAIM,67.91
+IDF,diabetes,AMEVA,75.65
+IDF,diabetes,CACC,77.22
+IDF,diabetes,CHI2,63.67
+IDF,diabetes,MDLP,69.59
+IDF,ecoli,CAIM,67.10
+IDF,ecoli,AMEVA,74.98
+IDF,ecoli,CACC,75.00
+IDF,ecoli,CHI2,85.13
+IDF,ecoli,MDLP,90.56
+IDF,segment,CAIM,98.44
+IDF,segment,AMEVA,98.76
+IDF,segment,CACC,98.73
+IDF,segment,CHI2,76.46
+IDF,segment,MDLP,NaN
+IDF,waveform-5000,CAIM,85.21
+IDF,waveform-5000,AMEVA,86.95
+IDF,waveform-5000,CACC,86.40
+IDF,waveform-5000,CHI2,69.93
+IDF,waveform-5000,MDLP,87.73
+IDF2,breast cancer wisconsin,CAIM,96.06
+IDF2,breast cancer wisconsin,AMEVA,97.05
+IDF2,breast cancer wisconsin,CACC,97.05
+IDF2,breast cancer wisconsin,CHI2,95.76
+IDF2,breast cancer wisconsin,MDLP,96.21
+IDF2,diabetes,CAIM,67.50
+IDF2,diabetes,AMEVA,74.93
+IDF2,diabetes,CACC,77.13
+IDF2,diabetes,CHI2,63.84
+IDF2,diabetes,MDLP,70.10
+IDF2,ecoli,CAIM,67.10
+IDF2,ecoli,AMEVA,74.98
+IDF2,ecoli,CACC,75.00
+IDF2,ecoli,CHI2,85.30
+IDF2,ecoli,MDLP,90.66
+IDF2,segment,CAIM,98.39
+IDF2,segment,AMEVA,98.76
+IDF2,segment,CACC,98.73
+IDF2,segment,CHI2,76.46
+IDF2,segment,MDLP,NaN
+IDF2,waveform-5000,CAIM,85.21
+IDF2,waveform-5000,AMEVA,86.95
+IDF2,waveform-5000,CACC,86.40
+IDF2,waveform-5000,CHI2,69.93
+IDF2,waveform-5000,MDLP,87.73

@@ -1,0 +1,4 @@
+data & J48 & IDF & IDF2
+balance-scale & 68.46 & 68.46 & 68.46
+nursery & 99.47 & 99.47 & 99.47
+solar-flare & 71.94 & 71.47 & 71.45

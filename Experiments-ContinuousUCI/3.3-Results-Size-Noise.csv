@@ -1,0 +1,26 @@
+data, discretizer, conserved.idf, conserved.idf2
+breast cancer wisconsin,CAIM,98.00,98.44
+breast cancer wisconsin,AMEVA,98.19,98.58
+breast cancer wisconsin,CACC,98.19,98.58
+breast cancer wisconsin,CHI2,100.00,100.00
+breast cancer wisconsin,MDLP,99.58,99.72
+diabetes,CAIM,77.23,79.21
+diabetes,AMEVA,80.40,85.06
+diabetes,CACC,84.69,89.13
+diabetes,CHI2,99.77,99.88
+diabetes,MDLP,80.15,82.05
+ecoli,CAIM,97.78,98.31
+ecoli,AMEVA,94.77,95.67
+ecoli,CACC,94.41,95.73
+ecoli,CHI2,92.03,94.54
+ecoli,MDLP,87.47,88.53
+segment,CAIM,99.65,99.80
+segment,AMEVA,99.75,99.84
+segment,CACC,99.75,99.84
+segment,CHI2,100.00,100.00
+segment,MDLP,NaN,NaN
+waveform-5000,CAIM,100.00,100.00
+waveform-5000,AMEVA,100.00,100.00
+waveform-5000,CACC,100.00,100.00
+waveform-5000,CHI2,100.00,100.00
+waveform-5000,MDLP,100.00,100.00

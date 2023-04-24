@@ -1,0 +1,82 @@
+@relation R_data_frame
+
+@attribute Clump_Thickness numeric
+@attribute Cell_Size_Uniformity numeric
+@attribute Cell_Shape_Uniformity numeric
+@attribute Marginal_Adhesion numeric
+@attribute Single_Epi_Cell_Size numeric
+@attribute Bare_Nuclei numeric
+@attribute Bland_Chromatin numeric
+@attribute Normal_Nucleoli numeric
+@attribute Mitoses numeric
+@attribute Class {benign,malignant}
+
+@data
+5,1,1,1,2,1,3,1,1,benign
+8,10,10,8,7,10,9,7,1,malignant
+5,2,3,4,2,7,3,6,1,malignant
+5,5,5,8,10,8,7,3,7,malignant
+9,5,5,2,2,2,5,1,1,malignant
+8,3,8,3,4,9,8,9,8,malignant
+5,2,1,1,2,1,3,1,1,benign
+3,3,2,1,2,3,3,1,1,benign
+8,3,3,1,2,2,3,2,1,benign
+1,1,2,2,2,1,3,1,1,benign
+4,2,1,1,2,2,3,1,1,benign
+7,5,3,7,4,10,7,5,5,malignant
+4,1,2,1,2,1,2,1,1,benign
+2,1,1,1,2,1,2,1,1,benign
+7,2,4,1,6,10,5,4,3,malignant
+1,1,1,2,1,3,1,1,7,benign
+10,8,10,10,6,1,3,1,10,malignant
+5,8,8,8,5,10,7,8,1,malignant
+7,5,10,10,10,10,4,10,3,malignant
+3,1,1,1,2,1,2,1,1,benign
+6,10,7,7,6,4,8,10,2,malignant
+6,1,3,1,2,1,3,1,1,benign
+8,9,9,5,3,5,7,7,1,malignant
+10,4,5,5,5,10,4,1,1,malignant
+8,10,10,8,6,9,3,10,10,malignant
+1,1,1,1,2,1,3,1,1,benign
+3,1,1,1,2,1,3,1,1,benign
+7,2,4,1,3,4,3,3,1,malignant
+8,3,4,9,3,10,3,3,1,malignant
+1,1,1,1,2,1,3,1,1,benign
+2,1,1,1,2,1,1,1,1,benign
+5,3,3,1,3,3,3,3,3,malignant
+2,1,1,1,2,1,2,1,1,benign
+1,1,1,1,2,1,1,1,1,benign
+3,1,1,1,2,1,1,1,1,benign
+1,2,1,3,2,1,1,2,1,benign
+2,3,1,1,5,1,1,1,1,benign
+3,1,1,1,2,1,1,1,1,benign
+9,10,10,10,10,10,10,10,1,malignant
+8,7,8,2,4,2,5,10,1,malignant
+2,1,1,1,2,1,2,1,1,benign
+1,3,1,1,2,1,2,2,1,benign
+10,8,10,1,3,10,5,1,1,malignant
+4,1,1,1,2,1,1,2,1,benign
+9,10,10,10,10,5,10,10,10,malignant
+8,7,8,5,5,10,9,10,1,malignant
+3,6,4,10,3,3,3,4,1,malignant
+4,1,1,2,2,1,2,1,1,benign
+4,1,1,1,2,1,3,1,1,benign
+1,1,1,1,2,1,1,1,1,benign
+6,6,7,10,3,10,8,10,2,malignant
+1,1,1,1,3,1,1,1,1,benign
+1,1,3,2,2,1,3,1,1,benign
+4,1,1,1,2,1,2,1,1,benign
+3,1,1,1,2,1,2,1,1,benign
+8,4,4,1,6,10,2,5,2,malignant
+3,1,1,1,2,1,1,1,1,benign
+8,10,10,10,6,10,10,10,1,malignant
+5,1,1,1,2,1,2,2,1,benign
+5,1,1,1,2,1,1,1,1,benign
+4,1,1,1,2,1,2,1,1,benign
+2,1,1,1,2,1,1,1,1,benign
+1,1,1,1,2,1,1,1,1,benign
+3,1,1,1,2,1,2,1,1,benign
+1,1,3,1,2,1,2,1,1,benign
+5,1,1,1,2,1,1,1,1,benign
+5,1,1,1,2,1,3,2,1,benign
+2,1,1,1,2,1,1,1,1,benign
